@@ -49,27 +49,75 @@ const Index = () => {
     },
     {
       id: 4,
-      name: 'Тушь для ресниц "Бамбук"',
-      price: 1450,
-      category: 'cosmetics',
-      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/2ae86830-e816-404c-b387-98eb13c73bb8.jpg',
-      description: 'Натуральные компоненты для объёма'
+      name: 'Шёлковая куртка с вышивкой',
+      price: 12500,
+      category: 'clothing',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/69fe2206-405f-4123-96ce-cd8bca44ad11.jpg',
+      description: 'Турквоизный жакет с цветочной вышивкой и стоячим воротником'
     },
     {
       id: 5,
-      name: 'Льняная рубашка Ханьфу',
-      price: 6700,
+      name: 'Бомбер с вышитым драконом',
+      price: 9800,
       category: 'clothing',
-      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/84b214b9-94bc-4c97-8647-ae29c68f1c18.jpg',
-      description: 'Традиционный крой с современным кроем'
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/ae423c6f-8513-4d9c-a1df-da0420a369f4.jpg',
+      description: 'Чёрная куртка с красными акцентами в urban-стиле'
     },
     {
       id: 6,
-      name: 'Сыворотка с рисом',
-      price: 2800,
+      name: 'Платье Ханьфу',
+      price: 7600,
+      category: 'clothing',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/04e66d90-c3cc-4b7e-ba06-a2630643b61f.jpg',
+      description: 'Нежное розово-белое платье из струящегося шёлка'
+    },
+    {
+      id: 7,
+      name: 'Травяная маска для лица',
+      price: 2450,
       category: 'cosmetics',
-      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/2ae86830-e816-404c-b387-98eb13c73bb8.jpg',
-      description: 'Увлажнение и сияние кожи'
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/cd678055-f4c6-495d-842b-34b03b2a1afc.jpg',
+      description: 'С зелёным чаем и женьшенем для глубокого питания'
+    },
+    {
+      id: 8,
+      name: 'Набор помад',
+      price: 3800,
+      category: 'cosmetics',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/995df1d2-c6ec-4a6a-aee8-7c243047dba3.jpg',
+      description: 'Коллекция красных и розовых оттенков в роскошной упаковке'
+    },
+    {
+      id: 9,
+      name: 'Маска для сна и крем для глаз',
+      price: 4200,
+      category: 'cosmetics',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/2d24b37c-091e-4cdb-b120-37fd8bb70138.jpg',
+      description: 'Шёлковая маска и восстанавливающий крем с лотосом'
+    },
+    {
+      id: 10,
+      name: 'Пиджак Тан',
+      price: 11300,
+      category: 'clothing',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/7d9e3420-fb87-40f5-968c-1f77fed1cf71.jpg',
+      description: 'Тёмно-синий пиджак с воротником-мандарин, приталенный крой'
+    },
+    {
+      id: 11,
+      name: 'Широкие брюки с узором',
+      price: 5900,
+      category: 'clothing',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/affcb78c-0ec0-4218-8562-5e13aea966ae.jpg',
+      description: 'Палаццо с традиционным принтом облаков'
+    },
+    {
+      id: 12,
+      name: 'Кушон с шёлковой пудрой',
+      price: 3600,
+      category: 'cosmetics',
+      image: 'https://cdn.poehali.dev/projects/6bd94170-99c2-4006-a6a4-f385facbf1d1/files/2183f6ee-1150-4b6e-b397-8f650f45031b.jpg',
+      description: 'Компактная тональная основа с эффектом сияния'
     }
   ];
 
